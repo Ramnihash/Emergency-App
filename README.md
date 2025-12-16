@@ -22,3 +22,5 @@ No Emergency Categories:
 Avoiding event labels keeps the interface simple and usable across different emergency scenarios.
 
 This design minimizes cognitive load and helps users act quickly and confidently during emergencies.
+
+Figma link:-https://www.figma.com/design/NO2RiKNBXjWmL5u6z9lAuD/Emergency-App?node-id=12-80&t=EhQfPLqE3bG7gAc9-1
